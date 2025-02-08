@@ -95,3 +95,8 @@ Este projeto cumpre os seguintes requisitos propostos:
 ## **Contribuidores**
 - **Michael Gabriel Cavalcante Batista**
 - **Projeto desenvolvido no EmBaRcAtEcH**
+---
+
+## **Link para o vídeo no YouTube**
+- **https://youtube.com/shorts/7X57HLwehyk?si=OSbE5C53R_gs8927**
+  
